@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Calcolo Area/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Calcolo Area.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Calcolo Area.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calcolo Area/1.0.0": {
+      "type": "project",
+      "path": "../Calcolo Area/Calcolo Area.csproj",
+      "msbuildProject": "../Calcolo Area/Calcolo Area.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Calcolo Area >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\corso6\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\corso6\\Desktop\\Prova Pratica\\Prova Pratica\\Prova Pratica.csproj",
+      "projectName": "Prova Pratica",
+      "projectPath": "C:\\Users\\corso6\\Desktop\\Prova Pratica\\Prova Pratica\\Prova Pratica.csproj",
+      "packagesPath": "C:\\Users\\corso6\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\corso6\\Desktop\\Prova Pratica\\Prova Pratica\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\corso6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\corso6\\Desktop\\Prova Pratica\\Calcolo Area\\Calcolo Area.csproj": {
+              "projectPath": "C:\\Users\\corso6\\Desktop\\Prova Pratica\\Calcolo Area\\Calcolo Area.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

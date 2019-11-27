@@ -1,0 +1,8 @@
+C:\Repos Federico\Prova Pratica\Calcolo Area\bin\Debug\netstandard2.0\Calcolo Area.deps.json
+C:\Repos Federico\Prova Pratica\Calcolo Area\bin\Debug\netstandard2.0\Calcolo Area.dll
+C:\Repos Federico\Prova Pratica\Calcolo Area\bin\Debug\netstandard2.0\Calcolo Area.pdb
+C:\Repos Federico\Prova Pratica\Calcolo Area\obj\Debug\netstandard2.0\Calcolo Area.csprojAssemblyReference.cache
+C:\Repos Federico\Prova Pratica\Calcolo Area\obj\Debug\netstandard2.0\Calcolo Area.AssemblyInfoInputs.cache
+C:\Repos Federico\Prova Pratica\Calcolo Area\obj\Debug\netstandard2.0\Calcolo Area.AssemblyInfo.cs
+C:\Repos Federico\Prova Pratica\Calcolo Area\obj\Debug\netstandard2.0\Calcolo Area.dll
+C:\Repos Federico\Prova Pratica\Calcolo Area\obj\Debug\netstandard2.0\Calcolo Area.pdb

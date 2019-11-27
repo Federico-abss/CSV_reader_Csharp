@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\corso6\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\corso6\\.nuget\\packages"
+    ]
+  }
+}

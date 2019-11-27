@@ -1,0 +1,5 @@
+Forma;Base;Altezza;
+Quadrato;5;5;
+Rettangolo;10;5;
+Triangolo;20;10;
+tatata;10;10;

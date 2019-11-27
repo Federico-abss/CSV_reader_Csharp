@@ -1,0 +1,28 @@
+C:\Repos Federico\Prova Pratica\Prova Pratica\obj\Debug\netcoreapp3.0\Prova Pratica.csprojAssemblyReference.cache
+C:\Repos Federico\Prova Pratica\Prova Pratica\obj\Debug\netcoreapp3.0\Prova Pratica.AssemblyInfoInputs.cache
+C:\Repos Federico\Prova Pratica\Prova Pratica\obj\Debug\netcoreapp3.0\Prova Pratica.AssemblyInfo.cs
+C:\Repos Federico\Prova Pratica\Prova Pratica\bin\Debug\netcoreapp3.0\Prova Pratica.exe
+C:\Repos Federico\Prova Pratica\Prova Pratica\bin\Debug\netcoreapp3.0\Prova Pratica.deps.json
+C:\Repos Federico\Prova Pratica\Prova Pratica\bin\Debug\netcoreapp3.0\Prova Pratica.runtimeconfig.json
+C:\Repos Federico\Prova Pratica\Prova Pratica\bin\Debug\netcoreapp3.0\Prova Pratica.runtimeconfig.dev.json
+C:\Repos Federico\Prova Pratica\Prova Pratica\bin\Debug\netcoreapp3.0\Prova Pratica.dll
+C:\Repos Federico\Prova Pratica\Prova Pratica\bin\Debug\netcoreapp3.0\Prova Pratica.pdb
+C:\Repos Federico\Prova Pratica\Prova Pratica\obj\Debug\netcoreapp3.0\Prova Pratica.dll
+C:\Repos Federico\Prova Pratica\Prova Pratica\obj\Debug\netcoreapp3.0\Prova Pratica.pdb
+C:\Repos Federico\Prova Pratica\Prova Pratica\bin\Debug\netcoreapp3.0\Calcolo Area.dll
+C:\Repos Federico\Prova Pratica\Prova Pratica\bin\Debug\netcoreapp3.0\Calcolo Area.pdb
+C:\Repos Federico\Prova Pratica\Prova Pratica\obj\Debug\netcoreapp3.0\Prova Pratica.csproj.CopyComplete
+C:\Users\corso6\Desktop\Prova Pratica\Prova Pratica\bin\Debug\netcoreapp3.0\Prova Pratica.exe
+C:\Users\corso6\Desktop\Prova Pratica\Prova Pratica\bin\Debug\netcoreapp3.0\Prova Pratica.deps.json
+C:\Users\corso6\Desktop\Prova Pratica\Prova Pratica\bin\Debug\netcoreapp3.0\Prova Pratica.runtimeconfig.json
+C:\Users\corso6\Desktop\Prova Pratica\Prova Pratica\bin\Debug\netcoreapp3.0\Prova Pratica.runtimeconfig.dev.json
+C:\Users\corso6\Desktop\Prova Pratica\Prova Pratica\bin\Debug\netcoreapp3.0\Prova Pratica.dll
+C:\Users\corso6\Desktop\Prova Pratica\Prova Pratica\bin\Debug\netcoreapp3.0\Prova Pratica.pdb
+C:\Users\corso6\Desktop\Prova Pratica\Prova Pratica\bin\Debug\netcoreapp3.0\Calcolo Area.dll
+C:\Users\corso6\Desktop\Prova Pratica\Prova Pratica\bin\Debug\netcoreapp3.0\Calcolo Area.pdb
+C:\Users\corso6\Desktop\Prova Pratica\Prova Pratica\obj\Debug\netcoreapp3.0\Prova Pratica.csprojAssemblyReference.cache
+C:\Users\corso6\Desktop\Prova Pratica\Prova Pratica\obj\Debug\netcoreapp3.0\Prova Pratica.AssemblyInfoInputs.cache
+C:\Users\corso6\Desktop\Prova Pratica\Prova Pratica\obj\Debug\netcoreapp3.0\Prova Pratica.AssemblyInfo.cs
+C:\Users\corso6\Desktop\Prova Pratica\Prova Pratica\obj\Debug\netcoreapp3.0\Prova Pratica.csproj.CopyComplete
+C:\Users\corso6\Desktop\Prova Pratica\Prova Pratica\obj\Debug\netcoreapp3.0\Prova Pratica.dll
+C:\Users\corso6\Desktop\Prova Pratica\Prova Pratica\obj\Debug\netcoreapp3.0\Prova Pratica.pdb
